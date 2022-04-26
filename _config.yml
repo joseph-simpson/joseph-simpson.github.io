@@ -3,4 +3,15 @@ title: My title
 subtitlte: My subtitle
 description: Experienced architect, development manager, full stack developer and hands-on leader with a successful record of delivering complex software projects for the financial services and energy sectors.
 author: Joseph Simpson
-twitter_username: simpsojo
+
+social-network-links:
+  email: "joseph.simpson@outlook.com"    
+  github: joseph.simpson
+  twitter: simpsojo
+  linkedin: simpsojo
+  stackoverflow: 1195908/joseph-simpson
+
+share-links-active:
+  twitter: true
+  linkedin: true
+  stackoverflow: true
